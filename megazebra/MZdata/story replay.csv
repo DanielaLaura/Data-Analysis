@@ -1,0 +1,27 @@
+# ----------------------------------------
+# Wasabi Mobile Data
+# Top Events
+# 20191224-20191231
+# ----------------------------------------
+
+Event Label,Total Events,Unique Events,Event Value,Avg. Value
+WolfenMoon,3,3,3,1.00
+UnknownNumber,2,2,2,1.00
+BeMineAgain,1,1,1,1.00
+Cupido,1,1,1,1.00
+DiaryofaDominatrix,1,1,1,1.00
+FoundersKeepers,1,1,1,1.00
+TattooArtist,1,1,1,1.00
+WhiteBFProblems,1,1,1,1.00
+,11,11,11,1.00
+
+Day Index,Total Events
+24/12/2019,2
+25/12/2019,2
+26/12/2019,3
+27/12/2019,2
+28/12/2019,1
+29/12/2019,0
+30/12/2019,0
+31/12/2019,1
+0,11
